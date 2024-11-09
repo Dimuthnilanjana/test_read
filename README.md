@@ -2,12 +2,6 @@
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3ABFEF&center=true&vCenter=true&width=435&lines=Frontend+Developer;UI%2FUX+Enthusiast;Creative+Designer;Web+Developer)
 
-  [![GitHub followers](https://img.shields.io/github/followers/dimuthnilanjana?label=Follow&style=social)](https://github.com/dimuthnilanjana)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/dimuthnilanjana?style=social)](https://twitter.com/dimuthnilanjana)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimuthnilanjana/)
-  [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dimuthnilanjana.official@gmail.com)
-  
-  <img src="https://komarev.com/ghpvc/?username=dimuthnilanjana&color=3ABFEF&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
 ## 👨‍💻 About Me
@@ -53,17 +47,6 @@ const DimuthNilanjana = {
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-</div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dimuthnilanjana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=3ABFEF&icon_color=3ABFEF" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimuthnilanjana&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=3ABFEF&icon_color=3ABFEF" height="180" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dimuthnilanjana&theme=tokyonight&hide_border=true&background=1A1B27&stroke=3ABFEF&ring=3ABFEF&fire=FF9900" height="200" />
 </div>
 
 ## 🤝 Let's Connect
